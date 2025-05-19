@@ -1,0 +1,1 @@
+// page.tsx for Chapter 06 Data Fetching
