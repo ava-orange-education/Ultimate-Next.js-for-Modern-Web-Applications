@@ -1,8 +1,11 @@
-import messages from './lib/messages';
+import messages from '../lib/messages';
 
-export default async function Home({ params }: { params: { locale: 'en' | 'fr' } }) {
-  const { locale } = await params;
-
+export default async function Home({
+  params,
+}: {
+  params: { locale: 'en' | 'fr' };
+}) {
+  const { locale } = await params
   return (
     <>
       <h1 className="text-3xl font-bold mb-4">

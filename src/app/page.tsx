@@ -15,7 +15,7 @@ const chapters = [
   { title: 'Performance Optimization in Next.js 15', path: '/chapters/chapter-09' },
   { title: 'Unit Testing and Integration Testing', path: '/chapters/chapter-10' },
   { title: 'Deploying Next.js Applications', path: '/chapters/chapter-11' },
-  { title: 'Advanced Features in Next.js 15', path: '/chapters/chapter-12' },
+  { title: 'Advanced Features in Next.js 15', path: '/chapters/chapter-12/en' },
   { title: 'Real-World Projects with Next.js', path: '/chapters/chapter-13' },
   { title: 'Preparing for Front-End Development Jobs', path: '/chapters/chapter-14' },
 ]
